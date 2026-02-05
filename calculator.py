@@ -1,4 +1,4 @@
-print('=========== CALCULATOR ============')
+print('=========== CALCULATOR V 1.0 ============')
 
 
 number1 = int(input("Enter the first number: "))

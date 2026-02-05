@@ -1,5 +1,4 @@
-print ('============ Calculadora Versão 2.0 ================')
-
+print ('============ CALCULATOR V 2.1 ================')
 
 
 def calculate(number1, number2, operation):

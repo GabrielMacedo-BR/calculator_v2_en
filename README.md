@@ -15,11 +15,7 @@ Para executar o projeto, é necessário ter o Python 3 instalado. Utilize os com
 
 *To run the project, Python 3 must be installed. Use the following commands in the terminal:*
 
-**Versão em Português:**
-`python calculadora_ptbr.py`
-
-**English Version:**
-`python calculator_en.py`
+* `python calculator.py´
 
 ---
 
